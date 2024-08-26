@@ -3,7 +3,19 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-Escreva aqui os conteúdos aprendidos.
+###JavaScript
+
+Variáveis
+
+var
+
+```js
+NomedoCarro = "chevrolet";
+let = "fiat"; 
+```
+
+let
+const
 
 
 
