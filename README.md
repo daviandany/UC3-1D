@@ -1,9 +1,9 @@
-# Caderno virtual - Lógica da Programação e Algoritmos
-Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os conceitos aprendidos e atiuvidades dessa unidade curricular. 
+# Lógica da Programação e Algoritmos
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStKLViTvR4oAe5fkfEEedwBMIZzw6rSkGzww&amp;s" alt="Lógica de programação: Como melhorar? - Blog ProgramaThor"/>
 
 
 ## Conteúdo Técnico
-###JavaScript
+### JavaScript
 
 Variáveis
 
@@ -12,14 +12,23 @@ Variáveis são como uma caixa que armazena dados dentro dela, como os strings e
 var
 
 ```js
+var valora = 5;
+var valorb = 10; 
+resultado = 15; 
+```
+
+let
+```js
 NomedoCarro = "chevrolet";
 let = "fiat"; 
 ```
 
-let
 const
 
-
+```js
+const idade = 18
+```
 
 ## Atividades desenvolvidas
-Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
+
+https://codepen.io/Davi-Andany/pen/NWZXeXp
