@@ -5,16 +5,16 @@
 ## Conteúdo Técnico
 ### JavaScript
 
-Variáveis
-
-Variáveis são como uma caixa que armazena dados dentro dela, como os strings e numbers.
+Variáveis e Strings  
 
 var
 
 ```js
 var valora = 5;
 var valorb = 10; 
-resultado = 15; 
+resultado = 15;
+
+console.log(valora + valorb)
 ```
 
 let
