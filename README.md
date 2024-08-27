@@ -7,6 +7,8 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 Variáveis
 
+Variáveis são como uma caixa que armazena dados dentro dela, como os strings e numbers.
+
 var
 
 ```js
