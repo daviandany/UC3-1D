@@ -32,3 +32,6 @@ const idade = 18
 ## Atividades desenvolvidas
 
 https://codepen.io/Davi-Andany/pen/NWZXeXp
+https://codepen.io/Davi-Andany/pen/ExBGLyp?editors=1010
+https://codepen.io/Davi-Andany/pen/yLdQyGZ?editors=0010
+https://codepen.io/Davi-Andany/pen/NWZXeXp?editors=0010
