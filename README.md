@@ -1,5 +1,6 @@
 # Lógica da Programação e Algoritmos
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStKLViTvR4oAe5fkfEEedwBMIZzw6rSkGzww&amp;s" alt="Lógica de programação: Como melhorar? - Blog ProgramaThor"/>
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStKLViTvR4oAe5fkfEEedwBMIZzw6rSkGzww&amp;s" alt="Lógica de programação: Como melhorar? - Blog ProgramaThor"  width="500" style="float: right; padding-left: 500px;" />
 
 
 ## Conteúdo Técnico
