@@ -47,6 +47,18 @@ if (nota >= 90) {
   console.log("Precisa melhorar");
 }
 ```
+## Switch Case
+É uma estrutura usada para tomar decisões com base nos valores informados de variáveis, geralmente usado para evitar o uso excessivo do ```if else```.
+
+```js
+switch (expressao) {
+  case valor1:
+    break;
+  case valor2:
+    break;
+  default:
+}
+```
 ## Função
 
 ```js
@@ -60,18 +72,6 @@ console.log("A área do retângulo é: " + area);
 ```
 
 
-## Switch Case
-É uma estrutura usada para tomar decisões com base nos valores informados de variáveis, geralmente usado para evitar o uso excessivo do ```if else```.
-
-```js
-switch (expressao) {
-  case valor1:
-    break;
-  case valor2:
-    break;
-  default:
-}
-```
 
 ## Atividades desenvolvidas
 
